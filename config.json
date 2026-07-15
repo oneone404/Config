@@ -3,5 +3,7 @@
     "http://127.0.0.1:5000",
     "http://127.0.0.1:5001",
     "https://nro.shoponeplay.com"
-  ]
+  ],
+  "server_info_api": "/api/server/info",
+  "version_check_api": "/api/server/gameloader"
 }
